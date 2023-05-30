@@ -1,7 +1,7 @@
 import random
 
 MAX_LINES = 3 # globally declared constant
-MAX_BET = 200
+MAX_BET = 100
 MIN_BET = 1
 
 ROWS = 3
